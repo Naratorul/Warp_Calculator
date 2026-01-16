@@ -51,8 +51,8 @@ This CLI application provides computational tools for analyzing the mathematical
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/warp-drive-calculator.git
-cd warp-drive-calculator
+git clone https://github.com/Naratorul/Warp_Calculator
+cd Warp_Calculator
 ```
 
 ### Requirements
@@ -68,7 +68,7 @@ pip install numpy scipy
 ## Usage
 
 ```bash
-python scripts/warp_drive_calculator.py
+python warp_drive_calculator.py
 ```
 
 ### Navigation
